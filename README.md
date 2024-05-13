@@ -9,3 +9,10 @@ Replace "areca_model_1" model with your own model in the app.py.
 
 After all these steps, run 
 python app.py
+
+
+![Screenshot (66)](https://github.com/Amitgupta76/disease-prediction-areca/assets/84084490/99503836-dec6-49cb-b0f3-91e1644bf935)
+
+
+
+![Screenshot (65)](https://github.com/Amitgupta76/disease-prediction-areca/assets/84084490/971adfb2-e934-4a22-a193-56318ca284b9)
