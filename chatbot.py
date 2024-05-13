@@ -1,6 +1,5 @@
 import os
 import google.generativeai as genai
-from textwrap import indent
 from dotenv import load_dotenv
 
 # Load your API key securely (avoid hardcoding)
